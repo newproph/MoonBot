@@ -1,5 +1,3 @@
-//https://discord.com/api/oauth2/authorize?client_id=1058176564937900043&permissions=2048&scope=bot%20applications.commands
-
 const fs = require('node:fs');
 const path = require('node:path');
 const { Client, Collection, Events, GatewayIntentBits } = require('discord.js');
