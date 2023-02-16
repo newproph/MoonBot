@@ -1,0 +1,10 @@
+{
+  "name": "moon-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "newproph",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "typescript": "^4.9.4"
+  }
+}
