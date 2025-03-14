@@ -1,5 +1,5 @@
 # Moon Bot for Discord
-under construction
+USES BROKEN API
 
 uses this API: https://moon.algorithmjunkie.workers.dev/
 
